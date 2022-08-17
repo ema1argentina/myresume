@@ -1,5 +1,5 @@
 
-[Run site](https://github.com/facebook/create-react-app](https://mycv-affatati.netlify.app/).
+[Run site](https://mycv-affatati.netlify.app/).
 
 # Getting Started with Create React App
 
