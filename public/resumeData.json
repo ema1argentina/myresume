@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name": "Emanuel Javier Affatati",
+    "country":"Canada",
+    "occupation": "Full-stack Developer",
+    "description": "Passionate about technology. Lifelong learner always looking for new challenges.",
+    "image": "profilepic.jpg",
+    "bio": "IT professional with +10 years of experience working in companies focused on SAP projects with a solid background in technical areas like Development, Basis, Analytics, Security, and Mobile Technologies.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "affatatiej@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://github.com/ema1argentina",
+    "resumedownload": "",
+    "social": [    
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/emanuelaffatati?lang=en",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/emanuelaffatati",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ema1argentina",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Belgrano",
+        "degree": "Masters in Eectronics",
+        "graduated": "December 2011",
+        "description": "I obtained a Bachelor's and a Master's degrees in Electronics. During the first three years of the career I learned about the basics of Electronics and programming. In the last three years, the course focused on Telecommunications."
+      },
+      {
+        "school": "MITT",
+        "degree": "Post-Graduate Diploma in International Business",
+        "graduated": "August 2022",
+        "description": "I learned about the dynamic issues and challenges of international sales, marketing, finance and contracts."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "SAP",
+        "level": "90%"
+      },
+      {
+        "name": "Salesforce",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
