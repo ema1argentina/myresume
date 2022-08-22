@@ -103,34 +103,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Weather App",
+        "category": "This is a weather app which consumes a REST api to get the weather information of the city selected.",
+        "image": "img01.jpg",
+        "url": "https://frontend-challenge-08-08-2022.netlify.app/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "React Calculator",
+        "category": "This is an example of a calculator made using React library.",
+        "image": "img02.jpg",
+        "url": "https://ema1argentina.github.io/calculator-gh-pages/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Todo-List",
+        "category": "A todo-list made in React.",
+        "image": "img03.jpg",
+        "url": "https://ema1argentina.github.io/todolist-gh-pages/"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Simple clock in React",
+        "category": "A clock made in React",
+        "image": "img04.jpg",
+        "url": "https://ema1argentina.github.io/clock-gh-pages/"
       }
     ]
   },
